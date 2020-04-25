@@ -46,7 +46,7 @@ header {
 
 h1, .subhead {
     position: relative;
-    z-intex: 3;
+    z-index: 0;
 }
 
 .subhead {
@@ -132,7 +132,7 @@ h2 {
 
 .cta {
     background: #00CC80;
-    widthL calc(100% - 1em);
+    width: calc(100% - 1em);
     display: block;
     color: white;
     border-radius: 20px;
